@@ -2,7 +2,8 @@
 
 ## Obtenção de Phishing
 
-```Prezado(a) [Nome do Cliente],
+```
+Prezado(a) [Nome do Cliente],
 
 Esperamos que este e-mail o(a) encontre bem. Gostaríamos de lembrar que, de acordo com nossos registros, sua conta com o número [Número da Conta] da [Nome da Empresa/Operadora] está em atraso.
 
@@ -34,4 +35,5 @@ Atenciosamente,
 [Seu Cargo]
 [Nome da Empresa/Operadora]
 [Tel. de Contato]
-[E-mail de Contato]```
+[E-mail de Contato]
+```
