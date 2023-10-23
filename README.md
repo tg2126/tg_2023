@@ -1,6 +1,6 @@
 # TG 2023
 
-## Obtenção de Phishing
+## Obtencao de Phishing
 
 ```
 Prezado(a) [Nome do Cliente],
